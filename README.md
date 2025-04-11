@@ -24,9 +24,9 @@ This project uses a Generative AI model via Groq API to analyze user comments an
 
 ## Folder Structure
 
-- ai_moderation.py
+- main.ipynb
 - comments.csv
-- comments_with_moderation.csv
+- output_file.csv
 - .env
 - README.md
 

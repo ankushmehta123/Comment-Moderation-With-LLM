@@ -36,7 +36,7 @@ This project uses a Generative AI model via Groq API to analyze user comments an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/comment-moderation-ai.git
+git clone https://github.com/ankushmehta123/Comment-Moderation-With-LLM.git
 cd comment-moderation-ai
 ```
 

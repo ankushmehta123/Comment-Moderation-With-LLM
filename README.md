@@ -15,7 +15,7 @@ This project uses a Generative AI model via Groq API to analyze user comments an
 
 2. **CSV Integration**:
    - Input: comments.csv with a column named comment_text
-   - Output: comments_with_moderation.csv with three additional columns:
+   - Output: output_file.csv with three additional columns:
      - is_offensive
      - offense_type
      - explanation
